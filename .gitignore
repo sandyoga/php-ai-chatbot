@@ -1,0 +1,11 @@
+# Ignore config file with API keys
+config.php
+
+# IDE and system files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
